@@ -53,7 +53,7 @@ ${data.description}
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#Contributing)
+- [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 
