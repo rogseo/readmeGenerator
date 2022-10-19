@@ -37,23 +37,7 @@ When creating an open source project on GitHub, it’s important to have a high-
 You can quickly and easily create a README file by using a command-line application to generate one.
 
 ## Tests
-Gift
-
-
-
-link to the video _and_ add it to the README of your project.
-
-
-
-
-## Getting Started
-
-e a video of the typical user flow through your application. This includes views of the prompts and the responses after their selection.
-
-* Refer to the [Fullstack Blog Video Submission Guide](https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide) for additional guidance on creating a video.
-
-* Include any other screenshots you deem necessary to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers or other developers in the future what you built and why, and to show how it works.
-
+video included
 
 ## Reference
 * Readme template : https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
