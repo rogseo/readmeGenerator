@@ -16,7 +16,7 @@ You can quickly and easily create a README file by using command-line applicatio
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Tests](#tests)
+- [Mock-up](#mock-up)
 - [Questions](#questions)
 
 ## Installation
@@ -27,7 +27,7 @@ install inquirer version 8.2.4 by running `npm i inquirer@8.2.4` on directory of
 When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions.
 You can quickly and easily create a README file by using a command-line application to generate one.
 
-## Tests
+## Mock-up
 Demonstrate how to generate readme file
 
 Link >> [Demonstration video](https://watch.screencastify.com/v/NmiBgP3aIODdND6dl2Qg)
